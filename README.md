@@ -14,6 +14,6 @@
 
 <div width="100%" align="center"><img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=kay941997&show_icons=true&locale=en&layout=compact" alt="kay941997" /></p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kay941997&show_icons=true&locale=en" alt="kay941997" />
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=kay941997&show_icons=true&locale=en" alt="kay941997" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kay941997&" alt="kay941997" /> </div>
+<img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=kay941997&" alt="kay941997" /> </div>
