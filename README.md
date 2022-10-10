@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kay</h1>
+<h1 align="center">Hi 👋, I'm K</h1>
 <h3 align="center">I'm an intern IT</h3>
 
 - 📫 How to reach me **Kay941997@gmail.com**
